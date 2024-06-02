@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm a dedicated Data Engineer with over 5 years of hands-on experience in building robust data pipelines, optimizing workflows, and driving insights through analytics. Currently seeking new opportunities to contribute my expertise and collaborate on exciting data projects!
 
-- 🔭 I’m currently working on Cloud DAta Engineering
+- 🔭 I’m currently working on Cloud Data Engineering
 - 🌱 I’m currently learning AI/ML and GenAI
 - 👯 I’m looking to collaborate on Spark
 - 🤔 I’m looking for help with Cloud Data Engineering
